@@ -1,3 +1,4 @@
+
 <?php
 
 use Illuminate\Database\Migrations\Migration;
@@ -34,3 +35,6 @@ class ddsgateway extends Migration
         Schema::dropIfExists('users');
     }
 }
+
+
+
